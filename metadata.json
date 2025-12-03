@@ -1,0 +1,5 @@
+{
+  "name": "FadeForge",
+  "description": "A professional-grade image gradient transparency tool. Apply smooth alpha masks to images with precision control over angle, opacity, and transition points completely in the browser.",
+  "requestFramePermissions": []
+}
